@@ -1,0 +1,14 @@
+/* Archivo maestro papus*/
+
+
+TOKEN :
+{
+
+	<DB: "<DB>">
+|	<apertura_nombre_db: "<nombre>">
+|	<cierre_nombre_db: "</nombre>">	
+|	<apertura_path_db: "<path>">	
+|	<apertura_path_db: "<path>">		
+
+}
+
